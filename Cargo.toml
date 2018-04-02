@@ -1,0 +1,6 @@
+[package]
+name = "asmc"
+version = "0.1.0"
+authors = ["Jalen <liquidsnake97@gmail.com>"]
+
+[dependencies]
